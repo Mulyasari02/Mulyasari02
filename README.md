@@ -1,0 +1,16 @@
+👋 Hi, I’m @Mulyasari02living in Indonesia who want to learn on the internet 
+- 👀 I’m interested ..in the world of trade and business
+  for the development of a business called Purwasari Mall
+  anyone interested in joining us
+  how to develop well
+  .l
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Mulyasari02/Mulyasari02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
